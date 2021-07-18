@@ -1,0 +1,362 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.active_class {
+  color: white;
+}
+
+.Nav {
+  display: flex;
+  background-color: cornflowerblue;
+  justify-content: space-between;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+
+.Nav button {
+  width: 150px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+}
+
+.Nav button:hover {
+  background-color: white;
+  color: black;
+}
+
+.homebg {
+  background-image: url("https://wallpaperaccess.com/full/2593044.jpg");
+  height: 672px;
+}
+
+.entry {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 150px;
+  color: white;
+}
+
+.home_heading {
+  font-size: 60px;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  align-items: center;
+}
+
+table {
+  border: black solid 2px;
+}
+
+th,
+td {
+  font-size: 20px;
+  width: 180px;
+}
+
+.index {
+  color: black;
+}
+
+th {
+  text-align: center;
+}
+
+.link {
+  margin: 5px;
+}
+
+.new input,
+button {
+  height: 50px;
+}
+.new_user {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+tbody {
+  text-align: center;
+}
+
+tbody button {
+  width: 80px;
+}
+
+.new {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+  font-size: 50px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5rem;
+  text-align: center;
+}
+
+.card {
+  height: 300px;
+  width: 300px;
+  margin-top: 40px;
+}
+
+.card img {
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+}
+
+.about button {
+  height: 40px;
+  width: 140px;
+  background-color: black;
+  color: aliceblue;
+  margin: 10px;
+}
+
+.about button:hover {
+  background-color: rgb(255, 183, 0);
+  color: rgb(255, 255, 255);
+}
+
+.gender_radio {
+  text-align: center;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.gender_radio input {
+  margin: 30px;
+}
+
+.nav_ {
+  background-color: cornflowerblue;
+}
+.main_nav {
+  display: flex;
+  font-size: 30px;
+  list-style: none;
+  padding: 20px;
+  margin: 0 180px;
+  justify-content: space-between;
+}
+
+.main_nav button {
+  background-color: white;
+  height: 60px;
+  width: 90px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.main_login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main_login h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.login_input input {
+  margin: 30px;
+  height: 60px;
+  width: 190px;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.login_input button {
+  background-color: rgb(115, 108, 255);
+  height: 60px;
+  width: 90px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/*ViewItem*/
+
+.view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 500px;
+}
+
+.view h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+.view img {
+  height: 260px;
+  width: 260px;
+  margin: 40px;
+}
+
+.view p {
+  margin: 10px 0px;
+}
+
+.view form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.view_box {
+  border: black 3px solid;
+  width: 260px;
+  margin-bottom: 50px;
+}
+
+/*view items*/
+.view_item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.view_item h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+.view_item img {
+  height: 260px;
+  width: 260px;
+  margin: 40px;
+}
+
+.view_item p {
+  margin: 10px 0px;
+}
+
+.view_item form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.view_box {
+  border: black 3px solid;
+  width: 260px;
+  margin-bottom: 50px;
+}
+
+.counter {
+  margin-top: 20px;
+}
+.counter button {
+  height: 40px;
+  width: 40px;
+}
+
+/*pagination*/
+
+.page {
+  display: flex;
+  justify-content: center;
+  margin: 150px 0px;
+}
+
+.paginationBttns {
+  width: 80%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid rgb(115, 108, 255);
+  color: rgb(115, 108, 255);
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: white;
+  background-color: rgb(115, 108, 255);
+}
+
+.paginationActive a {
+  color: white;
+  background-color: rgb(115, 108, 255);
+}
+
+/*popup*/
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.2);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup_inner .close-btn {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+
+.delete_item {
+  background-color: white !important;
+  width: 350px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

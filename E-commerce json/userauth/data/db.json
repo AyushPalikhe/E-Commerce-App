@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "ccusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://via.placeholder.com/600/92c952",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f4bd7a6-f763-4518-9b81-bdfd40ce3fc9/d26yer1-421bb5b8-9fc2-4d5a-b2d1-1e1f81b26b82.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmNGJkN2E2LWY3NjMtNDUxOC05YjgxLWJkZmQ0MGNlM2ZjOVwvZDI2eWVyMS00MjFiYjViOC05ZmMyLTRkNWEtYjJkMS0xZTFmODFiMjZiODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p5vfqGmq9kIylfG3glHGa20CAPUtoWlAxKEGpIvGOi8",
+      "price": "Rs 90",
+      "category": "female"
+    },
+    {
+      "email": "sita@gmail.com",
+      "password": "test",
+      "id": 2
+    },
+    {
+      "email": "get@gmail.com",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "email": "get@gmail.com",
+      "password": "test",
+      "id": 4
+    },
+    {
+      "email": "aloo@gmail.com",
+      "password": "test",
+      "id": 5
+    },
+    {
+      "email": "aloo@gmail.com",
+      "password": "test",
+      "id": 6
+    },
+    {
+      "email": "alluar@gmail.com",
+      "password": "test",
+      "id": 7
+    },
+    {
+      "email": "alluar@gmail.com",
+      "password": "test",
+      "id": 8
+    },
+    {
+      "email": "okboss@gmail.com",
+      "password": "test",
+      "id": 9
+    },
+    {
+      "email": "okboss@gmail.com",
+      "password": "test",
+      "id": 10
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "test",
+      "id": 11
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "test",
+      "id": 12
+    },
+    {
+      "email": "ok@gmail.com",
+      "password": "test",
+      "id": 13
+    },
+    {
+      "email": "ok@gmail.com",
+      "password": "test",
+      "id": 14
+    },
+    {
+      "email": "asa",
+      "password": "",
+      "id": 15
+    },
+    {
+      "email": "asa",
+      "password": "",
+      "id": 16
+    },
+    {
+      "email": "sittttt@gmail.com",
+      "password": "test",
+      "id": 17
+    },
+    {
+      "email": "sittttt@gmail.com",
+      "password": "test",
+      "id": 18
+    },
+    {
+      "email": "avash@gmail.com",
+      "password": "123456",
+      "id": 19
+    },
+    {
+      "email": "avash@gmail.com",
+      "password": "123456",
+      "id": 20
+    },
+    {
+      "email": "avas@gmail.com",
+      "password": "123456",
+      "id": 21
+    },
+    {
+      "email": "avas@gmail.com",
+      "password": "123456",
+      "id": 22
+    },
+    {
+      "email": "arjun@gmail.com",
+      "password": "test",
+      "id": 23
+    },
+    {
+      "email": "arjun@gmail.com",
+      "password": "test",
+      "id": 24
+    }
+  ]
+}

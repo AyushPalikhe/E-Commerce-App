@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "title": "Girl shoe",
+      "thumbnailUrl": "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2019/08/Nike-market-share-150x150.jpg",
+      "price": "5000",
+      "description": "100% cotton",
+      "id": 11,
+      "category": "female"
+    },
+    {
+      "title": "Cotton pant",
+      "thumbnailUrl": "https://get-wear.com/wp-content/uploads/2021/05/lite-gray-pant-150x150.jpg",
+      "price": "500",
+      "description": "100 % cotton",
+      "category": "male",
+      "id": 12
+    },
+    {
+      "title": "jeans",
+      "thumbnailUrl": "https://get-wear.com/wp-content/uploads/2021/05/lite-gray-pant-150x150.jpg",
+      "price": "2200",
+      "description": "100% cotton",
+      "category": "male",
+      "id": 13
+    },
+    {
+      "title": "white pant",
+      "thumbnailUrl": "data:image/jpeg;base64,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",
+      "price": "1200",
+      "description": "woolen",
+      "category": "female",
+      "id": 14
+    },
+    {
+      "title": "Pant",
+      "thumbnailUrl": "https://sportland.com/media/catalog/product/cache/05e789941b3028bd02de412de6a9eb76/F/R/FR5110_aa0e.jpg",
+      "price": "1200",
+      "description": "new arrival",
+      "category": "male",
+      "id": 15
+    },
+    {
+      "title": "blue shirt",
+      "thumbnailUrl": "https://shotrange.com/wp-content/uploads/2018/10/Plain-Blue-T-Shirt-150x150.png",
+      "price": "1590",
+      "description": "100% cotoon",
+      "category": "male",
+      "id": 17
+    },
+    {
+      "title": "Strecheble Chinos",
+      "thumbnailUrl": "https://onlinesaathi.com/uploads/product/images/w/i/b/small-2021-04-26-830183147.jpg",
+      "price": "5000",
+      "description": "100% cotton. Perfect for the beach or the city",
+      "category": "male",
+      "id": 18
+    },
+    {
+      "title": "Combat Pants",
+      "thumbnailUrl": "https://www.tactical-corner.gr/image/cache/catalog/products/epixeirhsiakes-formes/panteloni-pentagon-lycos-combat-pant-150x150.jpg",
+      "price": "35000",
+      "description": "you’ll be dazzling in this stunning garment that shows off your sense of style, sophistication, and flair for fun.",
+      "category": "male",
+      "id": 19
+    },
+    {
+      "title": "Yellow T-shirt",
+      "thumbnailUrl": "https://fc-195d3.kxcdn.com/wp-content/uploads/2019/03/Why-Always-Me-T-Shirt-6-150x150.jpg",
+      "price": "1200",
+      "description": "A T-shirt for cool ones",
+      "category": "male",
+      "id": 20
+    }
+  ]
+}
